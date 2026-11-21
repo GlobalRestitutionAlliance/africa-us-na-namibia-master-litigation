@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-namibia-canal-and-intervention-historian
-  name: Namibia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-namibia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_na_001
+    name: Namibia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_002
+    name: Namibia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_003
+    name: Namibia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_004
+    name: Namibia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_005
+    name: Namibia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_006
+    name: Namibia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_007
+    name: Namibia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_008
+    name: Namibia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_009
+    name: Namibia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_010
+    name: Namibia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_011
+    name: Namibia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_012
+    name: Namibia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_013
+    name: Namibia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_014
+    name: Namibia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_015
+    name: Namibia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_016
+    name: Namibia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_017
+    name: Namibia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_018
+    name: Namibia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_019
+    name: Namibia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_020
+    name: Namibia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_021
+    name: Namibia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_022
+    name: Namibia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_023
+    name: Namibia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_024
+    name: Namibia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_025
+    name: Namibia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_026
+    name: Namibia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_027
+    name: Namibia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_028
+    name: Namibia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_029
+    name: Namibia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_030
+    name: Namibia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_031
+    name: Namibia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_032
+    name: Namibia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_033
+    name: Namibia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_034
+    name: Namibia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_035
+    name: Namibia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_036
+    name: Namibia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_037
+    name: Namibia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_038
+    name: Namibia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_039
+    name: Namibia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_040
+    name: Namibia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_041
+    name: Namibia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_042
+    name: Namibia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_043
+    name: Namibia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_044
+    name: Namibia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_045
+    name: Namibia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_046
+    name: Namibia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_047
+    name: Namibia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_048
+    name: Namibia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_049
+    name: Namibia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_050
+    name: Namibia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_051
+    name: Namibia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_052
+    name: Namibia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_053
+    name: Namibia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_054
+    name: Namibia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_055
+    name: Namibia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_056
+    name: Namibia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_057
+    name: Namibia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_058
+    name: Namibia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_059
+    name: Namibia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_060
+    name: Namibia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_061
+    name: Namibia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_062
+    name: Namibia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_063
+    name: Namibia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_064
+    name: Namibia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_065
+    name: Namibia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_066
+    name: Namibia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_067
+    name: Namibia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_068
+    name: Namibia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_069
+    name: Namibia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_070
+    name: Namibia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_071
+    name: Namibia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_072
+    name: Namibia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_073
+    name: Namibia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_074
+    name: Namibia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_075
+    name: Namibia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_076
+    name: Namibia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_077
+    name: Namibia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_078
+    name: Namibia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_079
+    name: Namibia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_080
+    name: Namibia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_081
+    name: Namibia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_082
+    name: Namibia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_083
+    name: Namibia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_084
+    name: Namibia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_085
+    name: Namibia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_086
+    name: Namibia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_087
+    name: Namibia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_088
+    name: Namibia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_089
+    name: Namibia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_090
+    name: Namibia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_091
+    name: Namibia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_092
+    name: Namibia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_093
+    name: Namibia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_094
+    name: Namibia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_095
+    name: Namibia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_096
+    name: Namibia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_097
+    name: Namibia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_098
+    name: Namibia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_099
+    name: Namibia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_100
+    name: Namibia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_101
+    name: Namibia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_102
+    name: Namibia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_103
+    name: Namibia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_104
+    name: Namibia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_105
+    name: Namibia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_106
+    name: Namibia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_107
+    name: Namibia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_108
+    name: Namibia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_109
+    name: Namibia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_110
+    name: Namibia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_111
+    name: Namibia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_112
+    name: Namibia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_113
+    name: Namibia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_114
+    name: Namibia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_115
+    name: Namibia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_116
+    name: Namibia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_117
+    name: Namibia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_118
+    name: Namibia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_119
+    name: Namibia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_120
+    name: Namibia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_121
+    name: Namibia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_122
+    name: Namibia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_123
+    name: Namibia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_124
+    name: Namibia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_125
+    name: Namibia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_126
+    name: Namibia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_127
+    name: Namibia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_128
+    name: Namibia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_129
+    name: Namibia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_130
+    name: Namibia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_131
+    name: Namibia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_132
+    name: Namibia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_133
+    name: Namibia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_134
+    name: Namibia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_135
+    name: Namibia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_136
+    name: Namibia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_137
+    name: Namibia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_138
+    name: Namibia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_139
+    name: Namibia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_140
+    name: Namibia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_141
+    name: Namibia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_142
+    name: Namibia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_143
+    name: Namibia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_144
+    name: Namibia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_145
+    name: Namibia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_146
+    name: Namibia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_147
+    name: Namibia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_148
+    name: Namibia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_149
+    name: Namibia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_150
+    name: Namibia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_151
+    name: Namibia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_152
+    name: Namibia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_153
+    name: Namibia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_154
+    name: Namibia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_155
+    name: Namibia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_156
+    name: Namibia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_157
+    name: Namibia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_158
+    name: Namibia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_159
+    name: Namibia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_160
+    name: Namibia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_161
+    name: Namibia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_162
+    name: Namibia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_163
+    name: Namibia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_164
+    name: Namibia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_165
+    name: Namibia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_166
+    name: Namibia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_167
+    name: Namibia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_168
+    name: Namibia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_169
+    name: Namibia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_na_170
+    name: Namibia Agent 170
+    status: ACTIVE_SCAFFOLD
