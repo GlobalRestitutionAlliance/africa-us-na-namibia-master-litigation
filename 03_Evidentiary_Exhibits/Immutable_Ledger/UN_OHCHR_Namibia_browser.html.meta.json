@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/namibia",
+  "final_url": "https://www.ohchr.org/en/countries/namibia",
+  "title": "UN OHCHR Namibia",
+  "fetched_at": "2026-11-23T07:01:37.192462Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "953af1f72773e192dda0cca35dfb250cc5a91e943a786772f12867a8bbd533f0",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}

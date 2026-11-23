@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=namibia+german+colonial+genocide",
+  "final_url": "https://www.loc.gov/item/?q=namibia+german+colonial+genocide",
+  "title": "Library of Congress - Namibia",
+  "fetched_at": "2026-11-23T07:01:37.193462Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44585,
+  "sha256": "cc00c6ba784e6a55b10d5be0ef085b2393a829536839a0537003210a5f0583e4",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

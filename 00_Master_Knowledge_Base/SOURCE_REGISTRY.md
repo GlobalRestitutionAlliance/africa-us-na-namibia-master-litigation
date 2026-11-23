@@ -1,0 +1,16 @@
+# Source Registry
+
+Status: PENDING_LEGAL_REVIEW. Sources are public references for evidence capture; verify before legal reliance. No VERIFIED status without local hashed artifact + human sign-off.
+
+| source_id | title | url | source_type | access_method | verification_status | notes |
+|---|---|---|---|---|---|---|
+| SRC-0001 | UN OHCHR Namibia | https://www.ohchr.org/en/countries/namibia | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0002 | UN Digital Library | https://digitallibrary.un.org/ | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0003 | Library of Congress - Namibia | https://www.loc.gov/item/?q=namibia+german+colonial+genocide | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0004 | HathiTrust Digital Library | https://babel.hathitrust.org/ | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0005 | Chronicling America LOC | https://chroniclingamerica.loc.gov/ | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0006 | World Bank Namibia | https://data.worldbank.org/country/namibia | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0007 | UNESCO Memory of the World | https://www.unesco.org/en/memory-world | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0008 | German Federal Archives (public portal) | https://www.bundesarchiv.de/EN/Navigation/Home/home.html | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0009 | Justia | https://www.justia.com/ | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
+| SRC-0010 | CourtListener | https://www.courtlistener.com/ | PUBLIC_WEB | direct_or_browser_fallback | PENDING_LEGAL_REVIEW | Pilot batch africa8_wave5 source registry; verify before legal reliance. |
