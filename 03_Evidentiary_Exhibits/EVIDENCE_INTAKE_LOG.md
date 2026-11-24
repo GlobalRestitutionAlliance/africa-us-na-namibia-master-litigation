@@ -37,4 +37,3 @@
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
-- 2026-11-23T07:09:26.482316Z Wave 5 reconciliation: captures_meta=27, pending_recapture=5; all statuses PENDING_LEGAL_REVIEW; no VERIFIED without local hashed artifact + human sign-off.

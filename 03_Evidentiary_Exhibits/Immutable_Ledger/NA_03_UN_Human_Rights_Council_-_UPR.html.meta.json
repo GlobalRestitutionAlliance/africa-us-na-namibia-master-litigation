@@ -41,6 +41,5 @@
     "vary": "X-Bin,X-Consumer-ID,Accept-Encoding, Cookie",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin"
-  },
-  "legal_review_status": "PENDING_LEGAL_REVIEW"
+  }
 }
